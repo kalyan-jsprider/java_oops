@@ -2,7 +2,7 @@ package com.thread;
 
 import java.util.Iterator;
 
-import inheritance.main;
+
 
 public class demo {
 	public static void main(String[] args){ 
