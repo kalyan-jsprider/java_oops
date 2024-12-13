@@ -1,4 +1,4 @@
-package com.jsp.thread;
+package com.thread;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package com.jsp.abstact;
+package com.abstact;
 
 abstract class demo
 {

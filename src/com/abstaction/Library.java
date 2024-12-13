@@ -1,4 +1,4 @@
-package com.jsp.abstaction;
+package com.abstaction;
 
 interface Library {
 	void Books();

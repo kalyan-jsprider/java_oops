@@ -1,4 +1,4 @@
-package com.jsp.inheritance;
+package com.inheritance;
 
  class son implements father1,father2{
 	 @Override

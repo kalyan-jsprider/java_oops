@@ -1,4 +1,4 @@
-package com.jsp.abstaction;
+package com.abstaction;
 
 abstract interface amazon {
 	public abstract void watch();

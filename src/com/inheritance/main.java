@@ -1,4 +1,4 @@
-package com.jsp.inheritance;
+package com.inheritance;
 
 public class main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.jsp.abstaction;
+package com.abstaction;
 
 public class Abstraction_Runner {
 
